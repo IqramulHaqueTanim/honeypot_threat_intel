@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (Crucial for security!)
+.env
+.venv
+env/
+venv/
+
+# Logs (Don't leak your threat data accidentally)
+*.log
+logs/
+
+# System files
+.DS_Store
